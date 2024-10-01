@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(149, 35, 35);
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030; /* Agar tetap di atas elemen lain */
+}
+
+#Judul{
+    color: rgb(200, 255, 123); 
+    size: 150 px;
+}
+
+#normal-opacity-p{
+    color: antiquewhite;
+}
+
+.row{
+    color: rgb(200, 255, 123);
+}
+
+.card{
+    background-color: rgb(242,232,198);
+}
+
+.accordion-item {
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid #ffffff;
+}
+
+#hiro{
+    background-color: rgb(242,232,198);
+    padding-bottom: 30px;
+    margin-top: 2cm;
+}
+
+
